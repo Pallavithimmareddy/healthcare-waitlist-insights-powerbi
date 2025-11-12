@@ -89,23 +89,19 @@ To build a Power BI dashboard that:
 
 ### Dashboard Preview
 <p align="center">
-  <img src="reports/Dashboard.png" alt="Healthcare Waitlist Dashboard" width="850"/>
+  <img src="Dashboard.png" alt="Healthcare Waitlist Dashboard" width="850"/>
 </p>
 
 ### Additional Pages
 <p align="center">
-  <img src="reports/Summary_Page.png" alt="Summary Page" width="420"/> &nbsp;
-  <img src="reports/Detail_Page.png" alt="Detail Page" width="420"/>
+  <img src="Summary_Page.png" alt="Summary Page" width="420"/> &nbsp;
+  <img src="Detail_Page.png" alt="Detail Page" width="420"/>
 </p>
 
 ### Interactive Features
 <p align="center">
-  <img src="reports/Tooltip_View.png" alt="Tooltip View" width="420"/> &nbsp;
-  <img src="reports/Navigation_Bookmarks.png" alt="Bookmark Navigation" width="420"/>
+  <img src="Tooltip_View.png" alt="Tooltip View" width="420"/> &nbsp;
+  <img src="Model_view.png" alt="Bookmark Navigation" width="420"/>
 </p>
-
----
-
-## 7️⃣ 🧩 Folder Structure
 
 
