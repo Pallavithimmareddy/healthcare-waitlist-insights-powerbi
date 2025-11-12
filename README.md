@@ -1,4 +1,3 @@
-# healthcare-waitlist-insights-powerbi
 # 🏥 Healthcare Waitlist Insights Dashboard (Power BI)
 
 ## 1️⃣ Project Title / Headline
