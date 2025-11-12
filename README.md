@@ -86,21 +86,36 @@ To build a Power BI dashboard that:
 
 ## 6️⃣ 🖼️ Screenshots / Demos
 
-### Dashboard Preview
+---
+
+### 🩺 **Dashboard Overview**
 <p align="center">
   <img src="Dashboard.png" alt="Healthcare Waitlist Dashboard" width="850"/>
 </p>
 
-### Additional Pages
+<p align="center"><em>Main dashboard summarizing total waitlists, YOY comparison, and key performance indicators.</em></p>
+
+---
+
+### 📑 **Detailed Report Pages**
 <p align="center">
-  <img src="Summary_Page.png" alt="Summary Page" width="420"/> &nbsp;
+  <img src="Summary_Page.png" alt="Summary Page" width="420"/> &nbsp;&nbsp;&nbsp;
   <img src="Detail_Page.png" alt="Detail Page" width="420"/>
 </p>
 
-### Interactive Features
+<p align="center"><em>Summary and detailed analysis pages with case-type breakdown and age-band waitlist distribution.</em></p>
+
+---
+
+### 🧭 **Interactive Features**
 <p align="center">
-  <img src="Tooltip_View.png" alt="Tooltip View" width="420"/> &nbsp;
+  <img src="Tooltip_View.png" alt="Tooltip View" width="420"/> &nbsp;&nbsp;&nbsp;
   <img src="Model_view.png" alt="Bookmark Navigation" width="420"/>
 </p>
+
+<p align="center"><em>Custom tooltip popups and bookmark navigation enhancing interactivity and storytelling.</em></p>
+
+---
+
 
 
