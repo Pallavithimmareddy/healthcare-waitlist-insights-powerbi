@@ -99,21 +99,23 @@ To build a Power BI dashboard that:
 
 ### 📑 **Detailed Report Pages**
 <p align="center">
-  <img src="Summary_Page.png" alt="Summary Page" width="420"/> &nbsp;&nbsp;&nbsp;
-  <img src="Detail_Page.png" alt="Detail Page" width="420"/>
+  <img src="Detail_Page.png" alt="Detail Page" width="420"/> &nbsp;&nbsp;&nbsp;
+  <img src="Model_view.png" alt="Model View" width="420"/>
 </p>
 
-<p align="center"><em>Summary and detailed analysis pages with case-type breakdown and age-band waitlist distribution.</em></p>
+<p align="center"><em>Detailed report and data model view used for DAX, relationships, and visual interactions.</em></p>
 
 ---
 
 ### 🧭 **Interactive Features**
 <p align="center">
-  <img src="Tooltip_View.png" alt="Tooltip View" width="420"/> &nbsp;&nbsp;&nbsp;
-  <img src="Model_view.png" alt="Bookmark Navigation" width="420"/>
+  <img src="Tooltip_View.png" alt="Tooltip View" width="420"/>
 </p>
 
-<p align="center"><em>Custom tooltip popups and bookmark navigation enhancing interactivity and storytelling.</em></p>
+<p align="center"><em>Custom tooltip popups and bookmark-based navigation enhancing interactivity and storytelling.</em></p>
+
+---
+
 
 ---
 
