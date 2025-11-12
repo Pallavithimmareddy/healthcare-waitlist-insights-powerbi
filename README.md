@@ -100,7 +100,7 @@ To build a Power BI dashboard that:
 ### 📑 **Detailed Report Pages**
 <p align="center">
   <img src="Detail_Page.png" alt="Detail Page" width="420"/> &nbsp;&nbsp;&nbsp;
-  <img src="Model_view.png" alt="Model View" width="420"/>
+ 
 </p>
 
 <p align="center"><em>Detailed report and data model view used for DAX, relationships, and visual interactions.</em></p>
